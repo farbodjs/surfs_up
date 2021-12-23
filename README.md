@@ -17,6 +17,6 @@ Below histogram of precipitation data shows maximum rain fall is for the months 
 
 ## Summary
 
-Our analysis of historical weather data for the island of Oahu shows there is a moderate temperature for this area specifically for the months of June and December. Due to large sample size, we can conclude that calculated average temperature can be a sound representative of the population. Based on summary statistics for these two months, we think that ice cream and surf shop business can be sustainable year round.
+Our analysis of historical weather data for the island of Oahu shows there is a moderate temperature for this area specifically for the months of June and December. Due to large sample size, we can conclude that calculated average temperature can be a sound representative of the population. Based on summary statistics for these two months, we think that ice cream and surf shop business can be sustainable year round. We also recommend running a querry on historical data for wind in this region and find times and areas where there is high offshore winds which makes it more desirable for surfers.
 
 
